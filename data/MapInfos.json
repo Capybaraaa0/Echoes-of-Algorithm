@@ -5,7 +5,7 @@ null,
 null,
 null,
 null,
-{"id":6,"expanded":false,"name":"Clue List","order":7,"parentId":10,"scrollX":338,"scrollY":430.5},
+{"id":6,"expanded":false,"name":"Clue List","order":7,"parentId":10,"scrollX":819,"scrollY":445},
 null,
 {"id":8,"expanded":true,"name":"News Office","order":1,"parentId":0,"scrollX":338,"scrollY":430.5},
 null,
@@ -13,5 +13,5 @@ null,
 {"id":11,"expanded":false,"name":"Ending_Fail1","order":3,"parentId":10,"scrollX":832,"scrollY":640},
 {"id":12,"expanded":false,"name":"IT Departemnt","order":4,"parentId":10,"scrollX":338,"scrollY":430.5},
 {"id":13,"expanded":false,"name":"HR Office","order":5,"parentId":10,"scrollX":338,"scrollY":430.5},
-{"id":14,"expanded":false,"name":"CEO Office","order":6,"parentId":10,"scrollX":338,"scrollY":430.5}
+{"id":14,"expanded":false,"name":"CEO Office","order":6,"parentId":10,"scrollX":832,"scrollY":640}
 ]
